@@ -2,7 +2,7 @@
 
 | Title | Description |
 | --- | --- |
-| Project | Title: Bioinformatics Approach for Profiling Antibiotic Resistance genes from Metagenomic DNA Sequence |
+| Project | Bioinformatics Approach for Profiling Antibiotic Resistance genes from Metagenomic DNA Sequence |
 | Director| Dr. Shuvro Nandi, Assistant Professor  |
 | Team Member| Jubayer Hossain|
 |Name of  Institute| Jagannath University|
